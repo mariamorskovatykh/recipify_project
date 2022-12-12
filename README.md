@@ -1,2 +1,1 @@
-# Recipify
 # recipify_project
